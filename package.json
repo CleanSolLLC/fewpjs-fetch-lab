@@ -35,5 +35,8 @@
     "node-fetch": "^2.6.1",
     "sinon": "^7.2.3",
     "sinon-stub-promise": "^4.0.0"
+  },
+  "dependencies": {
+    "glob": "^7.1.7"
   }
 }
